@@ -1,7 +1,7 @@
 # Beta-VAE
 Final Project
 
-preprocess.m-parceltion of the data.
+preprocess.m-parcellation of the data.
 
 geometric_reformatting.m- geometric_reformatting file which outputs a mat file called fMRI.mat and an h5 file called 100610.h5 into the data folder.
 
